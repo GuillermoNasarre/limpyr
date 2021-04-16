@@ -25,11 +25,11 @@ It includes:
 
 ```
 library(devtools)
-install_github("GuillermoNasarre/ihr")
+install_github("GuillermoNasarre/limpyr")
 ```
 # Usage
 ```
-library(ihr)
+library(limpyr)
 # Load package's sample data
 edcn <- edcn
 ?edcn
@@ -65,4 +65,4 @@ edcn_genders %>%
 ![example_1](docs/example_1.png)
 
 # Support
-Please report bugs here on [GitHub](https://github.com/GuillermoNasarre/ihr/issues).
+Please report bugs here on [GitHub](https://github.com/GuillermoNasarre/limpyr/issues).
