@@ -1,0 +1,96 @@
+c.prov;prov;var_prov;c.ccaa;ccaa;var_ccaa
+1;Araba/Álava;Araba/Álava;16;País Vasco;País Vasco
+1;Araba/Álava;Araba;16;País Vasco;Euskadi
+1;Araba/Álava;Álava;16;País Vasco;País Vasco
+2;Albacete;Albacete;8;Castilla - La Mancha;Castilla - La Mancha
+3;Alicante/Alacant;Alicante/Alacant;10;Comunitat Valenciana;Comunitat Valenciana
+3;Alicante/Alacant;Alicante;10;Comunitat Valenciana;Valencia
+3;Alicante/Alacant;Alacant;10;Comunitat Valenciana;País Valencià
+4;Almería;Almería;1;Andalucía;Andalucía
+5;Ávila;Ávila;7;Castilla y León;Castilla y León
+6;Badajoz;Badajoz;11;Extremadura;Extremadura
+7;Balears, Illes;Balears, Illes;4;Balears, Illes;Balears, Illes
+7;Balears, Illes;Illes Balears;4;Balears, Illes;Illes Balears
+7;Balears, Illes;Baleares, Islas;4;Balears, Illes;Baleares, Islas
+7;Balears, Illes;Islas Baleares;4;Balears, Illes;Islas Baleares
+7;Balears, Illes;Balears;4;Balears, Illes;Balears
+7;Balears, Illes;Baleares;4;Balears, Illes;Baleares
+7;Balears, Illes;Mallorca;4;Balears, Illes;Balears, Illes
+7;Balears, Illes;Menorca;4;Balears, Illes;Balears, Illes
+7;Balears, Illes;Ibiza;4;Balears, Illes;Balears, Illes
+7;Balears, Illes;Formentera;4;Balears, Illes;Balears, Illes
+8;Barcelona;Barcelona;9;Cataluña;Cataluña
+9;Burgos;Burgos;7;Castilla y León;León
+10;Cáceres;Cáceres;11;Extremadura;Extremadura
+11;Cádiz;Cádiz;1;Andalucía;Andalucía
+12;Castellón/Castelló;Castellón/Castelló;10;Comunitat Valenciana;Comunitat Valenciana
+12;Castellón/Castelló;Castellón;10;Comunitat Valenciana;Comunitat Valenciana
+12;Castellón/Castelló;Castelló;10;Comunitat Valenciana;Comunitat Valenciana
+13;Ciudad Real;Ciudad Real;8;Castilla - La Mancha;La Mancha
+14;Córdoba;Córdoba;1;Andalucía;Andalucía
+15;Coruña, A;Coruña;12;Galicia;Galicia
+15;Coruña, A;La Coruña;12;Galicia;Galicia
+15;Coruña, A;A Coruña;12;Galicia;Galicia
+16;Cuenca;Cuenca;8;Castilla - La Mancha;Castilla - La Mancha
+17;Girona;Girona;9;Cataluña;Cataluña
+17;Girona;Gerona;9;Cataluña;Cataluña
+18;Granada;Granada;1;Andalucía;Andalucía
+19;Guadalajara;Guadalajara;8;Castilla - La Mancha;Castilla - La Mancha
+20;Gipuzkoa;Gipúzcoa/Gipuzkoa;16;País Vasco;País Vasco
+20;Gipuzkoa;Gipuzkoa;16;País Vasco;País Vasco
+20;Gipuzkoa;Gipúzcoa;16;País Vasco;País Vasco
+21;Huelva;Huelva;1;Andalucía;Andalucía
+22;Huesca;Huesca;2;Aragón;Aragón
+23;Jaén;Jaén;1;Andalucía;Andalucía
+24;León;León;7;Castilla y León;Castilla y León
+25;Lleida;Lérida/Lleida;9;Cataluña;Cataluña
+25;Lleida;Lleida;9;Cataluña;Cataluña
+25;Lleida;Lérida;9;Cataluña;Cataluña
+26;Rioja, La;Rioja;17;Rioja, La;Rioja
+26;Rioja, La;La Rioja;17;Rioja, La;La Rioja
+27;Lugo;Lugo;12;Galicia;Galicia
+28;Madrid;Madrid;13;Madrid, Comunidad de;Madrid, Comunidad de
+28;Madrid;Madrid;13;Madrid, Comunidad de;Madrid
+29;Málaga;Málaga;1;Andalucía;Andalucía
+30;Murcia;Murcia;14;Murcia, Región de;Murcia, Región de
+30;Murcia;Murcia;14;Murcia, Región de;Región de Murcia
+30;Murcia;Murcia;14;Murcia, Región de;Murcia
+31;Navarra;Navarra;15;Navarra, Comunidad Foral de;Navarra, Comunidad Foral de
+31;Navarra;Navarra;15;Navarra, Comunidad Foral de;Navarra
+32;Ourense;Ourense/Orense;12;Galicia;Galicia
+32;Ourense;Ourense;12;Galicia;Galicia
+32;Ourense;Orense;12;Galicia;Galicia
+33;Asturias;Asturias;3;Asturias, Principado de;Asturias, Principado de
+33;Asturias;Asturias;3;Asturias, Principado de;Asturias
+33;Asturias;Asturias;3;Asturias, Principado de;Principado de Asturias
+34;Palencia;Palencia;7;Castilla y León;León
+35;Palmas, Las;Palmas;5;Canarias;Canarias
+35;Palmas, Las;Las Palmas;5;Canarias;Islas Canarias
+35;Palmas, Las;Gran Canaria;5;Canarias;Canarias, Islas
+35;Palmas, Las;Fuerteventura;5;Canarias;Canarias
+35;Palmas, Las;Lanzarote;5;Canarias;Canarias
+36;Pontevedra;Pontevedra;12;Galicia;Galicia
+37;Salamanca;Salamanca;7;Castilla y León;Castilla y León
+38;Santa Cruz de Tenerife;Santa Cruz de Tenerife;5;Canarias;Canarias
+38;Santa Cruz de Tenerife;Sta Cruz;5;Canarias;Canarias
+38;Santa Cruz de Tenerife;Tenerife;5;Canarias;Canarias
+38;Santa Cruz de Tenerife;La Gomera;5;Canarias;Canarias
+38;Santa Cruz de Tenerife;El Hierro;5;Canarias;Canarias
+38;Santa Cruz de Tenerife;La Palma;5;Canarias;Canarias
+39;Cantabria;Cantabria;6;Cantabria;Cantabria
+40;Segovia;Segovia;7;Castilla y León;Castilla y León
+41;Sevilla;Sevilla;1;Andalucía;Andalucía
+42;Soria;Soria;7;Castilla y León;Castilla y León
+43;Tarragona;Tarragona;9;Cataluña;Cataluña
+44;Teruel;Teruel;2;Aragón;Aragón
+45;Toledo;Toledo;8;Castilla - La Mancha;Castilla - La Mancha
+46;Valencia/València;Valencia/València;10;Comunitat Valenciana;Comunitat Valenciana
+46;Valencia/València;València;10;Comunitat Valenciana;Comunitat Valenciana
+47;Valladolid;Valladolid;7;Castilla y León;Castilla y León
+48;Bizkaia;Vizcaya/Bizkaia;16;País Vasco;País Vasco
+48;Bizkaia;Bizkaia;16;País Vasco;País Vasco
+48;Bizkaia;Vizcaya;16;País Vasco;País Vasco
+49;Zamora;Zamora;7;Castilla y León;Castilla y León
+50;Zaragoza;Zaragoza;2;Aragón;Aragón
+51;Ceuta;Ceuta;18;Ceuta;Ceuta
+52;Melilla;Melilla;19;Melilla;Melilla
