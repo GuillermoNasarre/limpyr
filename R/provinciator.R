@@ -134,7 +134,7 @@ provinciator <- function(x, division = "provincia", scope = bias()) {
     }
   }
 
-  unique_matches <- setNames(tibble(a, v), col_names)
+  unique_matches <- setNames(unique(tibble(a, v)), col_names)
   all_matches <- left_join(tibble(x), unique_matches, by = c("x" = "a"))
 
   output <- left_join(all_matches[-1],
