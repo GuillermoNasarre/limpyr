@@ -121,7 +121,7 @@ provincias <- p2 %>%
 provincias[1:3] <- lapply(provincias[1:3], as.integer)
 
 # Genders-----------------------------------------------------------------------
-genders <- g
+genders <- g[!is.na(g$name), ]
 
 # Save data---------------------------------------------------------------------
 usethis::use_data(municipios, provincias, genders,
